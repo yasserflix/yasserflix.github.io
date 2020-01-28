@@ -12,7 +12,8 @@ html {
    position: fixed;
    left: 0;
    bottom: 0;
-   width: 50%;
+   width: 40%;
+   font-size: 30px;
    background-color: #f1f1f1;
    color: black;
    text-align: center;
