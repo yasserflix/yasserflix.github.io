@@ -8,6 +8,16 @@ html {
     background: transparent;  
 }
 
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #f1f1f1;
+   color: white;
+   text-align: center;
+}
+
 /* ::-webkit-scrollbar-thumb {
     background: #FF0000;
 } */
