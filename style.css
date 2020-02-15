@@ -102,6 +102,15 @@ h2{
   width:45px;
   padding:2px;
 }
+
+.flex h6:nth-of-type(3){
+  background:grey;
+  color:white;
+  font-weight:bold;
+  text-align:center;
+  width:45px;
+  padding:2px;
+}
 p{
   color:white;
 /*   border:solid 1px red; */
